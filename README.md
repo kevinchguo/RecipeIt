@@ -15,7 +15,7 @@
 
 - Wireframe web app
 - Create a search bar to test out CasperJS
-- Setup backend so that users can create/login with accounts
+- Setup backend so that users can create/login with accounts, create recipie books.
 - User docker for backend?
 
 ### MVP
